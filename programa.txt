@@ -1,0 +1,3 @@
+Este es el programa principal.
+
+Preparando para configurar el sistema.
